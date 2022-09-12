@@ -4,4 +4,4 @@
 __all__ = ['foo']
 
 # %% ../00_core.ipynb 3
-def foo(): pass
+def foo(): print('I did something')
