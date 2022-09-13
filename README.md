@@ -23,5 +23,8 @@ Fill me in please! Don’t forget code examples:
     2
 
 ``` python
-foo()
+m=foo()
+print(m)
 ```
+
+    I did something
