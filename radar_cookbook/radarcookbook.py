@@ -4,4 +4,4 @@
 __all__ = ['foo']
 
 # %% ../00_radarcookbook.ipynb 3
-def foo(): return 'I did something'
+def foo(): return 'I did something else'
