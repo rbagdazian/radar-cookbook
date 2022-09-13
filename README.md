@@ -17,10 +17,10 @@ pip install radar_cookbook
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+1
+1+2
 ```
 
-    2
+    3
 
 ``` python
 m=foo()
